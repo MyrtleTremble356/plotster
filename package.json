@@ -1,0 +1,33 @@
+{
+  "name": "plotster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyrtleTremble356/plotster.git"
+  },
+  "author": "MyrtleTremble356",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyrtleTremble356/plotster/issues"
+  },
+  "homepage": "https://github.com/MyrtleTremble356/plotster#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cross-env": "^7.0.3",
+    "is-array": "^1.0.1",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "octokit": "^3.1.2",
+    "querystring": "^0.2.1",
+    "vite": "^5.2.6",
+    "[object Object]": "^1.0.0"
+  }
+}
